@@ -1,0 +1,17 @@
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# --- DADOS ---
+# GitHub bloqueia arquivos maiores que 100MB.
+# Se seu arquivo do DESeq2 for gigante, descomente a linha abaixo:
+# data/raw_data/*.csv
+
+# Mas geralmente queremos manter os dados processados e scripts.
+# Ignorar a pasta de ambiente virtual se você criou uma dentro do projeto
+.venv/
+env/
