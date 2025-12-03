@@ -1,0 +1,85 @@
+path:ppu00010		aceE	gapA	frmA	pyk	fbp	tpiA	adhP	cpsG	pgm	ppsA	eno	aceF	glk	pgk
+path:ppu00020		icd	sdhC	aceE	sucC	mdh	sdhB	sucD	sdhD	sucA	acnB	aceF	sdhA
+path:ppu00030		rpe	edd	rbsK	fbp	trxB	phnN	cpsG	ghrB	zwf	tal	pgm	pgl	rpiA	prs
+path:ppu00051		fruK	cpsG	fbp	fruA	tpiA	gmd
+path:ppu00052		glk	cpsG	galE	pgm	galU
+path:ppu00061		fabZ	accC	accA	fabD	fabA	fabF	accD	fabB	accB	fabG
+path:ppu00071		fadB	frmA	paaF	adhP	fadE	fadA
+path:ppu00130		ubiG	ubiH	ubiC	ubiD	ubiE	ubiA
+path:ppu00190		nuoN	sdhC	nuoB	atpA	nuoG	nuoL	ppa	atpE	nuoJ	sdhB	atpG	cyoE	nuoE	nuoH	cyoB	atpB	atpF	sdhD	nuoI	nuoC	nuoA	nuoK	nuoF	cyoA	atpH	sdhA	nuoM	atpD
+path:ppu00220		argG	carA	argE	argB	argF	alaA	ureC	carB	arcA	arcC	gdhA	argC	arcB	glnA	argA	argH
+path:ppu00230		guaD	apt	mazG	purM	surE	purF	yrfG	nudE	cyaA	spoT	guaB	relA	purE	ppx	adk	yfiH	purT	nrdA	dgt	apaH	purC	ureC	cpsG	ndk	nrdB	gmk	purK	arcC	pgm	purD	guaA	puuE	prs	cysD	purL	purN	nudF	purH	ushA	purB
+path:ppu00240		pyrF	mazG	carA	surE	ydfG	nrdA	dut	upp	cmk	carB	pyrE	ndk	nrdB	pyrD	dcd	pyrC	pyrH	thyA	ushA	pyrB	pyrG
+path:ppu00250		argG	gltD	putA	carA	purF	gltB	glmS	ansA	alaA	carB	gdhA	glnA	aspA	argH	asnB	nadB	pyrB	purB
+path:ppu00260		asd	ltaE	ydfG	serB	thrC	pssA	betB	creA	serC	trpB	ghrB	lysC	alr	thrB	serA	trpA
+path:ppu00270		asd	ilvE	gshB	mtnA	mdh	metB	yfiH	cysM	gshA	sseA	metK	serC	metE	cysK	lysC	alr	serA	tyrB	cysE	metH
+path:ppu00290		leuC	ilvE	ilvI	ilvC	leuA	leuB	ilvD	leuD	alaA
+path:ppu00300		dapF	asd	dapB	aspC	dapD	dapE	lysC	murF	murE
+path:ppu00330		proA	speA	putA	proB	astE	patD	creA	speB	astD	astB
+path:ppu00340		hisG	hisD	hisF	hutI	hisC	hisA	hutU	hutG	hisB	hutH	hisH
+path:ppu00360		paaG	paaH	hisC	katG	paaF	paaA	paaC	paaI	paaD	paaK	paaZ	tyrB	paaE	paaB
+path:ppu00362		fadB	paaH	paaF	fadA	fdx
+path:ppu00400		aroB	trpD	hisC	aroK	pheA	aroE	trpB	pabA	aroC	tyrB	trpA	aroH
+path:ppu00450		metG	selA	metE	metB	cysD	metH	selD
+path:ppu00470		dapF	murD	dadX	alr	dauA	ddlA	murI
+path:ppu00480		icd	gstA	ggt	gshB	pepA	gshA	zwf	pepN
+path:ppu00500		malQ	glk	cpsG	bcsA	glgX	glgP	treY	pgm	bglX	treZ	galU	glgA	glgB
+path:ppu00520		murB	glmM	nagZ	galE	glmS	rfbA	galU	gph	cpsG	pgm	glk	glmU	anmK	murA
+path:ppu00521		rfbA	glk	rfbC	cpsG	pgm	suhB
+path:ppu00540		lpxB	waaA	lpxD	lpxC	lpxH	lpxA	lpxK
+path:ppu00541		gmhB	hldE	diaA	rfbA	rfbC	kdsB	kdsC	galU	kdsD	glmU	gmd
+path:ppu00550		murB	ftsW	dacA	pbpC	murC	mrcB	mrdB	mtgA	murD	murG	mrcA	murF	ddlA	mraY	ftsI	murA	dacB	murE
+path:ppu00561		plsB	plsX	glpK	plsY	plsC
+path:ppu00564		ugpQ	clsB	pssA	plsY	gpsA	cdsA	glpD	plsC	pgsA	plsB
+path:ppu00620		gloB	maeB	aceE	accC	leuA	accA	mdh	frmA	lldD	pyk	gloA	accD	adhP	pta	ghrB	ppsA	aceF	ppc	accB
+path:ppu00630		aceA	fdoI	mdh	katE	ghrB	acnB	hutG	glnA
+path:ppu00640		fadB	sucC	accC	accA	aceA	paaF	accD	sucD	pta	yqhD	acnB	accB
+path:ppu00650		sdhC	fadB	paaH	sdhB	paaF	sdhD	ilvI	sdhA
+path:ppu00660		sucD	leuC	sucC	ilvI	leuB	leuD
+path:ppu00670		folA	folM	betB	metF	thyA	purN	purH	metH	metK
+path:ppu00680		serB	fdoI	mdh	frmA	fbp	serC	pta	ppsA	eno	ppc	serA
+path:ppu00710		rpe	rpiA	mdh	maeB	fbp	pgk	tal	tpiA	gapA	ppc
+path:ppu00720		icd	sdhC	sucC	accC	accA	mdh	sdhB	accD	metF	sucD	sdhD	pta	acnB	ppsA	ppc	sdhA	accB
+path:ppu00730		thiL	thiE	thiG	rsgA	thiI	thiC	dxs	thiD	adk
+path:ppu00740		ribF	ssuE	ribD	nudF	ribB	ribE	ribA
+path:ppu00750		serC	epd	pdxJ	pdxY	pdxH	pdxA	pdxB	thrC
+path:ppu00760		nadC	mazG	surE	nadA	nudC	pncC	nadE	sthA	nadD	nadB	pncB	pntB	ushA
+path:ppu00770		coaD	mazG	ilvE	panE	coaE	panC	ilvI	ilvC	panB	ilvD
+path:ppu00780		bioD	fabZ	bioH	bioA	bioC	bioF	fabB	fabF	bioB	birA	fabG
+path:ppu00785		aceE	lipA	lipB	sucA	aceF
+path:ppu00790		folA	queC	folK	folM	moeA	pabB	folB	pabC	moaA	folC	moaE	queF	folP	moaC	mobA	queD	ribA	queE
+path:ppu00860		hemA	cobO	hemN	hemL	cobB	cyoE	cysG	hemE	hemC	hemB	hemF	gltX	hemD	hemH
+path:ppu00900		ispE	ispG	fadA	ispB	ispF	ispD	ispH	ispA	dxs
+path:ppu00910		nirD	gltD	nirB	gltB	gdhA	arcC	glnA
+path:ppu00920		tauC	cysI	cysW	tauA	cysA	ssuC	metB	sseA	ssuB	cysH	cysQ	cysK	ssuE	cysD	ssuD	cysE	glpE
+path:ppu00970		hisS	cysS	glnS	metG	glyQ	ileS	fmt	pheT	thrS	selA	pheS	lysS	argS	trpS	gltX	tyrS	aspS	proS	glyS	leuS	serS	alaS
+path:ppu01100		epd	gloB	aspC	treY	yfiH	clsB	moeA	pyk	bioA	trxB	selD	ilvC	purK	dauA	ftsI	atpD	nuoN	hemN	bcsA	carA	hldE	bioF	spoT	fruA	dxs	folK	adk	pepA	rbsK	lipB	mrcB	paaF	pdxB	gudD	atpB	phnN	pyrE	cpsG	ghrB	yqhD	gdhA	arcB	leuD	aspA	accB	purB	proA	ilvE	queC	plsX	nudE	glgX	hutI	katG	lldD	gpsA	selA	mrcA	guaA	glmU	purL	nuoM	pncB	purH	aroH	thiG	dapF	fruK	purF	nirB	hemB	sdhD	alr	hutG	garD	thiL	tyrB	sdhA	metH	thiE	hemA	apt	maeB	leuC	atpA	ggt	hemL	ispH	leuA	argE	ribB	suhB	nadA	nrdA	argF	aroE	galU	cdsA	murD	gph	hemC	thiI	ilvI	miaA	argA	paaK	prs	dacB	ssuD	mobA	bglX	glpE	speA	fadB	aceE	mazG	cyaA	mtnA	nirD	panE	pheA	folB	hisA	mtgA	dut	atpG	ispA	nuoH	paaC	nadE	ureC	fadE	ndk	dadX	pta	arcA	nuoC	astD	nuoA	pdxY	ddlA	thyA	astB	ushA	guaD	nuoG	dapB	accA	cobB	gapA	hisH	glmS	pdxJ	astE	pdxH	purT	folM	dapE	cysK	queF	hemF	lpxH	mraY	plsB	hemD	pntB	murE	queD	bioB	treZ	pyrG	nadC	rpe	murB	fabA	hutU	ubiG	edd	argB	gshA	cyoE	fabD	ribE	kdsC	paaI	nrdB	ubiE	nadD	purD	murF	pgl	nuoK	rpiA	purN	metK	ribA	ppx	sdhC	argG	asd	accC	yrfG	nudC	ispE	ispG	kdsB	glgB	moaE	purC	acpP	nuoI	glpD	dcd	pyrD	aroC	cyoA	paaZ	moaC	pyrB	cysI	gmhB	paaH	nuoL	lipA	ydfG	ubiA	diaA	fmt	patD	sseA	metB	rfbC	fabZ	sdhB	ansA	cyoB	ubiC	cmk	speB	zwf	glgP	bioD	argH	ssuE	murI	glk	ispF	hisG	gstA	nuoB	hisC	pncC	glgA	hisD	accD	creA	fabG	dgt	gmk	acnB	lpxD	pepN	serA	lpxK	bioH	paaG	queE	gmd	cobO	icd	sucC	putA	murC	gltB	fabF	mdh	rfbA	aroK	ribD	glpK	gloA	nuoE	serC	murG	hisF	eno	glnA	birA	lpxC	folP	nudF	bioC	trpA	lpxB	waaA	pdxA	guaB	glnS	pssA	coaE	nuoJ	dapD	leuB	cysG	ygiD	thiD	folC	adhP	carB	kdsD	arcC	sucA	aceF	ppc	lpxA	puuE	murA	cysD	ilvD	cysE	hisB	pyrF	dacA	hutH	fdoI	thrC	ribF	cysM	fbp	paaA	upp	tpiA	katE	sthA	metE	thiC	plsC	pgk	hemH	malQ	coaD	glmM	pbpC	folA	surE	nagZ	proB	galE	relA	gshB	metG	atpE	plsY	moaA	metF	panC	apaH	hemE	sucD	trpB	tal	pgm	pyrC	gltX	panB	anmK	nadB	atpH	ispD	gltD	aroB	ltaE	ubiD	trpD	purM	aceA	serB	fabB	purE	frmA	cysH	betB	alaA	cysQ	ubiH	atpF	fadA	rsgA	pabA	lysC	argC	ppsA	paaD	thrB	pyrH	nuoF	asnB	pgsA	paaE	paaB
+path:ppu01110		treY	aspC	pyk	ilvC	purK	hemN	carA	dxs	adk	paaF	cpsG	ghrB	arcB	leuD	ispB	accB	purB	proA	ilvE	plsX	glgX	katG	gpsA	purL	purH	aroH	dapF	purF	sdhD	hemB	tyrB	sdhA	metH	hemA	leuC	hemL	argE	ispH	leuA	ribB	suhB	argF	aroE	galU	cdsA	hemC	ilvI	miaA	argA	prs	bglX	glpE	speA	fadB	aceE	panE	pheA	hisA	ispA	ndk	arcA	ushA	dapB	accA	gapA	hisH	purT	cysK	hemF	plsB	hemD	treZ	rpe	ubiG	argB	cyoE	fabD	ribE	ubiE	purD	pgl	rpiA	purN	metK	ribA	sdhC	argG	asd	accC	ispE	ispG	glgB	purC	acpP	glpD	aroC	ubiA	metB	rfbC	sdhB	ansA	ubiC	speB	zwf	glgP	argH	glk	ispF	hisG	hisC	glgA	hisD	accD	fabG	acnB	serA	icd	sucC	putA	gltB	mdh	rfbA	aroK	ribD	serC	hisF	eno	glnA	trpA	guaB	pssA	leuB	cysG	ygiD	adhP	carB	sucA	arcC	aceF	cysD	ilvD	cysE	hisB	thrC	ribF	fbp	tpiA	katE	metE	plsC	pgk	hemH	malQ	surE	proB	plsY	panC	hemE	sucD	trpB	tal	pgm	gltX	panB	ispD	gltD	aroB	ltaE	ubiD	trpD	purM	aceA	serB	purE	frmA	alaA	ubiH	fadA	pabA	lysC	argC	ppsA	thrB	asnB
+path:ppu01120		pyk	fruA	paaF	cpsG	ghrB	gdhA	accB	dapF	nirB	sdhD	hemB	alr	sdhA	fdx	hemA	maeB	hemL	hemC	paaK	prs	ssuD	glpE	fadB	aceE	nirD	paaC	ureC	pta	dapB	accA	gapA	pdxH	dapE	cysK	hemD	rpe	edd	pgl	rpiA	sdhC	asd	accC	paaZ	cysI	paaH	patD	sseA	metB	sdhB	zwf	ssuE	glk	accD	acnB	serA	paaG	icd	sucC	gltB	mdh	serC	glnA	eno	dapD	cysG	adhP	sucA	arcC	aceF	ppc	puuE	cysD	cysE	fdoI	thrC	fbp	paaA	tpiA	pgk	metF	sucD	tal	pgm	gltX	gltD	ltaE	aceA	serB	frmA	cysH	cysQ	fadA	lysC	ppsA	paaD	thrB	paaE	paaB
+path:ppu01200		sdhC	maeB	accC	pyk	arcC	sucA	aceF	ppc	prs	cysE	fadB	aceE	paaH	fdoI	sdhB	fbp	tpiA	katE	pta	zwf	glk	pgk	accB	accA	gapA	accD	metF	sucD	cysK	tal	acnB	serA	rpe	icd	sucC	aceA	serB	mdh	frmA	edd	serC	sdhD	ppsA	eno	pgl	rpiA	sdhA
+path:ppu01210		icd	asd	aceE	leuC	ilvE	argE	leuA	argB	leuB	alaA	ilvI	ilvC	lysC	sucA	acnB	argC	aceF	leuD	argA	ilvD
+path:ppu01212		fadB	accC	accA	fabA	fabF	fabB	fabZ	paaF	fabD	accD	fabG	fadE	fadA	accB
+path:ppu01230		argG	asd	leuC	argE	leuA	aspC	pyk	dapD	leuB	argF	metK	aroE	ilvI	ilvC	aroC	argA	prs	ilvD	cysE	hisB	thrC	metB	cysM	pheA	hisA	tpiA	metE	arcB	leuD	argH	pgk	proA	hisG	ilvE	dapB	proB	hisC	gapA	hisH	hisD	dapE	trpB	cysK	tal	acnB	serA	aroH	dapF	rpe	icd	gltD	aroB	ltaE	trpD	gltB	serB	aroK	argB	alaA	serC	hisF	pabA	lysC	argC	eno	glnA	thrB	rpiA	asnB	tyrB	trpA	metH
+path:ppu01232		guaD	apt	mazG	surE	yrfG	guaB	adk	yfiH	nrdA	dut	upp	dgt	cmk	ndk	nrdB	gmk	dcd	guaA	pyrH	thyA	ushA	purB	pyrG
+path:ppu01240		epd	hemA	pdxA	hemL	ribB	nadA	coaE	moeA	bioA	cysG	galU	thiD	folC	moaE	carB	hemC	thiI	pyrD	moaC	pyrB	thiE	pyrF	hemN	carA	bioF	lipA	ubiA	folK	adk	panE	ribF	lipB	fabZ	folB	pabC	pdxB	nadE	ubiC	pyrE	ndk	thiC	pdxY	bioD	hemH	purB	coaD	ilvE	folA	gshB	cobB	pdxJ	pdxH	pabB	moaA	fabG	panC	hemE	hemF	pyrC	gltX	panB	hemD	nadB	bioH	pncB	queD	bioB	pyrG	thiG	nadC	cobO	ubiD	fabF	fabB	ubiG	gshA	ribD	cyoE	ribE	serC	ubiH	hemB	ubiE	nadD	thiL	folP	pyrH	bioC	metK	ribA
+path:ppu01250		murB	glmM	gmhB	hldE	galE	diaA	glmS	rfbA	rfbC	kdsB	kdsC	galU	gph	kdsD	cpsG	pgm	glk	anmK	murA	glmU	gmd
+path:ppu01502		ddlA	mraY	murG	dadX	murF
+path:ppu01503		dsbA	amiC	cpxR	ppiA	lpxA	phoQ	phoP
+path:ppu02010		yejF	mlaE	tauA	modA	ftsX	dppD	ssuC	hisP	urtE	urtC	gltK	phnC	mlaF	cysW	modB	mlaD	artJ	modC	pstS	rbsC	ssuB	metN	rbsD	livM	pstA	lolC	dppC	pstC	znuB	argT	urtA	lptB	urtD	urtB	livH	livG	dppF	tauC	cysA	metQ	rbsB	lolE	lolD	dppB	znuC	phnE	msbA	ftsE	livK
+path:ppu02020		glnD	ompR	kdpD	rpoN	motA	fecI	cpxR	gltK	crp	pstS	glnG	uvrY	uhpA	kdpE	dnaA	phoR	cheA	cusF	kdpF	phoQ	cheR	kdpB	envZ	qseB	csrA	flgM	kdpC	phoB	kdpA	mdtC	glnL	fadA	glnA	phoP	cheY
+path:ppu02024		secA	crp	secE	secB	gsiC	ribD	secY	kdpE	qseB	ftsY	ribA	livM	yajC	pabA	ffh	secG	gsiA	ydcS	livH	hfq	livG	aroH	livK
+path:ppu02025		crp	uvrY	csrA	pabA	flgM
+path:ppu02030		motB	fliM	fliN	rbsB	motA	cheA	cheY	fliG	cheR	cheZ
+path:ppu02040		motB	flgK	fliM	flgH	flgE	fliQ	flgD	fliN	fliD	rpoN	flhB	flgG	fliE	fliO	fliP	fliK	flgL	fliI	fliH	flgC	fliR	fliT	rpoD	flhA	fliJ	flgB	fliG	flgA	motA	fliF	fliL	flgM	flgJ	fliS
+path:ppu02060		ptsN	fruB	ptsH	fruK	fruA	ptsP
+path:ppu03010		rplT	rpmC	rpmE	rpsU	rpsR	rplJ	rplN	rplY	rpsH	rpsS	rplS	rplB	rpsQ	rplP	rplV	rpsA	rpsE	rpsI	rplM	rplD	rplA	rpmD	rpsT	rplX	rplC	rpmJ	rpsJ	rpsO	rpmH	rpsB	rpmG	rpsL	rpsC	rplF	rplE	rpsK	rplQ	rplW	rplO	rpmA	rpmI	rplI	rpsM	rplK	rpmB	rpsP	rpsG	rplU	rpsD	rpmF	rpsN	rplL	rplR	rpsF
+path:ppu03018		rhlB	pnp	recQ	rnr	rho	hfq	groL	rne	dnaK	eno	pcnB	rppH
+path:ppu03030		holC	holB	dnaX	holA	ssb	rnhB	ligA	dnaB	ligB	rnhA	dnaQ	dnaN	polA	dnaG
+path:ppu03060		secA	lepB	secD	secE	secB	secY	secF	ftsY	yajC	ffh	lspA	tatB	secG
+path:ppu03070		secA	secD	gspE	secE	secB	secY	gspG	secF	ftsY	yajC	ffh	gspF	tatB	secG
+path:ppu03410		mutY	ligB	ligA	nth	ung	xthA	tag	recJ	polA	mutM
+path:ppu03420		uvrB	ligB	ligA	uvrA	uvrC	uvrD	polA	mfd
+path:ppu03430		holC	holB	dnaX	holA	ssb	ligB	sbcB	ligA	uvrD	dnaQ	dnaN	recJ	xseB	mutS	mutL	xseA
+path:ppu03440		recG	recB	recD	recC	ruvA	holC	holB	holA	recF	ruvC	dnaN	dnaX	ruvB	recA	dnaQ	recJ	polA	recO	priA	recR	ssb
+path:ppu04122		moeB	tusD	sseA	moaD	moaA	moaE	thiI	tusE	moaC	mnmA
+path:ppu04146		katE	icd	sodB	sodA	nudC
